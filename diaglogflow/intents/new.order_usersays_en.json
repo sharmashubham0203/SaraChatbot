@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b9cf13ec-acb6-49ca-9112-ca3ca69e597d",
+    "data": [
+      {
+        "text": "Generate a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1e9215e-a825-4177-81cb-dfc2251783d8",
+    "data": [
+      {
+        "text": "Set up a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4b20801-1844-4443-81bd-8047aaffbe46",
+    "data": [
+      {
+        "text": "Create a brand-new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77f4df3a-e9cc-47a9-8b56-d4c86fd0e941",
+    "data": [
+      {
+        "text": "Initiate a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e70dabc-8a6a-4645-ad0b-32f3b248ff50",
+    "data": [
+      {
+        "text": "Place new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "def820f6-22a4-4705-b8fb-423901a5482d",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

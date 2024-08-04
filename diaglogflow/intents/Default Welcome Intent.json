@@ -1,0 +1,46 @@
+{
+  "id": "25c90d92-6cc3-422c-8263-8019721fd91b",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello, How can I help you? You can say \"New Order\" or \"Track Order\"",
+            "Good day! What can I do for you today? You can say \"New Order\" or \"Track Order\"",
+            "Greetings! How can I assist? You can say \"New Order\" or \"Track Order\"",
+            "Hi there! How can I be of service? You can say \"Place New Order\" or \"Check Order Status.\"",
+            "Greetings! How may I help you? You can say \"Submit a New Order\" or \"Track Current Order.\"",
+            "Welcome! How can I support you? You can say \"Start a New Order\" or \"Follow Your Order.\"",
+            "Hi! How can I assist today? You can say \"Initiate New Order\" or \"Review Order Status.",
+            "Hello! How can I help you today? You can say \"New Order\" or \"Track Order.\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

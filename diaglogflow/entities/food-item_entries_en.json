@@ -1,0 +1,118 @@
+[
+  {
+    "value": "Pav Bhaji",
+    "synonyms": [
+      "Pav bhaji",
+      "Bhaji pav",
+      "Maumbai pav bhaji",
+      "Mumbai-style vegetable mix with buns",
+      "Buttered bread with spicy vegetable stew",
+      "Indian vegetable curry with bread",
+      "Spiced vegetable mash with bread rolls"
+    ]
+  },
+  {
+    "value": "Chole Bhature",
+    "synonyms": [
+      "Chole Bhature",
+      "Chole",
+      "Chhole",
+      "chhole puri",
+      "puri chhole",
+      "Indian chickpea stew with deep-fried bread",
+      "Chickpea curry with puffed bread",
+      "Spiced chickpeas with fried bread"
+    ]
+  },
+  {
+    "value": "Pizza",
+    "synonyms": [
+      "Pizza",
+      "pizzas",
+      "cheese pizza",
+      "Italian pie",
+      "Flatbread with toppings",
+      "Pizza pie",
+      "Sliced pie",
+      "Topped flatbread",
+      "Savory flatbread"
+    ]
+  },
+  {
+    "value": "Mango Lassi",
+    "synonyms": [
+      "Mango Lassi",
+      "aam lassi",
+      "mango lasi",
+      "mango yogurt",
+      "mango drink",
+      "Mango-flavored buttermilk",
+      "Mango smoothie",
+      "Mango and yogurt beverage",
+      "Mango yogurt shake",
+      "Spiced mango yogurt"
+    ]
+  },
+  {
+    "value": "Masala dosa",
+    "synonyms": [
+      "Masala dosa",
+      "dosa",
+      "Masale dosa",
+      "Spiced potato-filled dosa",
+      "Flavored potato pancake"
+    ]
+  },
+  {
+    "value": "Vegetable Biryani",
+    "synonyms": [
+      "Vegetable Biryani",
+      "Mixed vegetable rice dish",
+      "Herb-infused vegetable rice",
+      "Savory vegetable rice casserole",
+      "Spiced vegetable rice",
+      "Aromatic vegetable pilaf",
+      "biryani",
+      "vegetable rice",
+      "fried rice"
+    ]
+  },
+  {
+    "value": "Vada Pav",
+    "synonyms": [
+      "Vada Pav",
+      "pav vada",
+      "wada pao",
+      "batata vada pav",
+      "Indian burger",
+      "Fried potato sandwich",
+      "Spicy potato fritter sandwich",
+      "Spiced potato sandwich",
+      "Mumbai-style potato burge",
+      "mumbai style vada pav"
+    ]
+  },
+  {
+    "value": "Rava Dosa",
+    "synonyms": [
+      "Rava Dosa",
+      "sooji dosa",
+      "dosa",
+      "Semolina pakcake",
+      "Instant rava dosa",
+      "Semolina crepe",
+      "rava pancake",
+      "Crispy rava crepe",
+      "Spiced semolina flatbread"
+    ]
+  },
+  {
+    "value": "Samosa",
+    "synonyms": [
+      "Samosa",
+      "Spiced pastry",
+      "Spiced snack",
+      "Fried or baked pastry filled with spiced potatoes and peas"
+    ]
+  }
+]
